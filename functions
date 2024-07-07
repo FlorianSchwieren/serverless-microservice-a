@@ -1,0 +1,16 @@
+{
+  "functions": [
+    {
+      "name": "hello",
+      "path": "src",
+      "handler": "hello.handler",
+      "runtime": "nodejs20.x"
+    },
+    {
+      "name": "bye",
+      "path": "src",
+      "handler": "bye.handler",
+      "runtime": "nodejs20.x"
+    }
+  ]
+}
